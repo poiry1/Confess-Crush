@@ -1,20 +1,18 @@
 const CONFIG = {
-    titleWeb: "Tiêu đề web",
-    introTitle: 'Tên người yêu bạn',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Thích lắm <33',
-    btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
-    btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    titleWeb: "danhchoanhthaoxinhdep",
+    introTitle: 'Bé yêu ơiiii',
+    introDesc: `Nothing's gonna change my love for you.
+    You ought to know by now how much I love you <3`,
+    btnIntro: 'Cốc cốc ^^',
+    title: 'Anh muốn em biết là anh yêu em nhất trên đời <3 và anh rất hạnh phúc khi được bên cạnh em ^^',
+    desc: 'Chắc chắn cùng nhau vượt qua mùa dịch này nhé !!! ',
+    btnYes: 'Dạ, iu anh',
+    btnNo: 'Hong iu cũng iu hí hí',
+    question: 'Em là trục, anh là trái đất vì trái đất luôn quay quanh trục của nó, em chỉ cần đứng ở 1 điểm thoi anh sẽ tự đến và tìm em ❤️ ',
+    btnReply: 'Gửi cho anh',
+    reply: 'Em cũng iu anh nhắmmmm, mãi bên nhau bạn nhớ',
+    mess: 'Anh biết mà, hứa với nhau sẽ luôn cùng nhau cố gắng em nha ❤️',
+    messDesc: 'Anh chắc chắn mình sẽ được gặp nhau thật hạnh phúc, cả tấm lòng này chỉ dành cho em',
+    btnAccept: 'Dạaaaaaaaa',
+    messLink: 'https://www.facebook.com/phuyeuanhthao/' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
