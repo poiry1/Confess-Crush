@@ -10,7 +10,7 @@ const CONFIG = {
     btnNo: 'Hong iu cũng iu hí hí',
     question: 'Em là trục, anh là trái đất vì trái đất luôn quay quanh trục của nó, em chỉ cần đứng ở 1 điểm thoi anh sẽ tự đến và tìm em ❤️ ',
     btnReply: 'Gửi cho anh',
-    reply: 'Em cũng iu anh nhắmmmm, mãi bên nhau bạn nhớ',
+    reply: 'Em cũng iu anh lắm, mãi bên nhau em nhé <3',
     mess: 'Anh biết mà, hứa với nhau sẽ luôn cùng nhau cố gắng em nha ❤️',
     messDesc: 'Anh chắc chắn mình sẽ được gặp nhau thật hạnh phúc, cả tấm lòng này chỉ dành cho em',
     btnAccept: 'Dạaaaaaaaa',
